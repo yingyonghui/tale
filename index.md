@@ -1,7 +1,4 @@
 ---
-layout: home
-title: Home
-
 ## Personal website
 
 To record the daily thoughts
